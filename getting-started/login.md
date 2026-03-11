@@ -4,7 +4,7 @@
 
 SafeIntelligence에 접속하면 로그인 화면이 나타납니다.
 
-![로그인 화면](./assets/login.png)
+<figure><img src="../.gitbook/assets/스크린샷 2026-03-12 오전 8.07.37.png" alt=""><figcaption></figcaption></figure>
 
 1. **이메일**: 등록된 이메일 주소 입력
 2. **비밀번호**: 비밀번호 입력
