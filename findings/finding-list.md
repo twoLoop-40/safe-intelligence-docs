@@ -4,6 +4,8 @@
 
 조직의 모든 보안 발견사항을 통합 관리하는 페이지입니다. 사이드바의 **Findings** 메뉴에서 접근합니다.
 
+<figure><img src="../.gitbook/assets/SI_03.파인딩.png" alt=""><figcaption></figcaption></figure>
+
 ## 테이블 구성
 
 | 열   | 설명                                |
