@@ -4,6 +4,8 @@
 
 모니터링 중인 모든 도메인을 한 화면에서 관리합니다. 사이드바의 **Domains** 메뉴에서 접근할 수 있습니다.
 
+<figure><img src="../.gitbook/assets/SI_02.도메인.png" alt=""><figcaption></figcaption></figure>
+
 ## 도메인 카드
 
 각 도메인은 카드 형태로 표시됩니다:
