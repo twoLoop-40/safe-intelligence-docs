@@ -4,6 +4,8 @@
 
 다크웹 모니터링 페이지는 ZeroDarkWeb(ZDW) 연동을 통해 조직의 다크웹 노출 현황을 보여줍니다. 사이드바의 **Dark Web** 메뉴에서 접근하거나, 요약 보고의 **다크웹 모니터링 보기 >** 링크를 클릭합니다.
 
+<figure><img src="../.gitbook/assets/SI_04.다크웹.png" alt=""><figcaption></figcaption></figure>
+
 ## 화면 구성
 
 ### 상단: 노출 통계
