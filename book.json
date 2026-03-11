@@ -1,0 +1,11 @@
+{
+  "title": "SafeIntelligence Documentation",
+  "description": "OSINT-based enterprise security intelligence platform",
+  "author": "SafeIntelligence Team",
+  "language": "en",
+  "languages": ["en", "ko", "ja"],
+  "plugins": [],
+  "structure": {
+    "languages": "LANGS.md"
+  }
+}
