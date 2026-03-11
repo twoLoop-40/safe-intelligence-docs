@@ -2,6 +2,10 @@
 
 **요약 보고**(Overview)는 로그인 후 가장 먼저 보이는 메인 화면입니다. 조직의 보안 현황을 3개 섹션으로 요약합니다.
 
+
+
+<figure><img src="../.gitbook/assets/SI_01.요약보고.png" alt=""><figcaption></figcaption></figure>
+
 ## 화면 구성
 
 ### 상단: Active Scope
